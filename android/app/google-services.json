@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "977052530411",
+    "project_id": "tubesppbm",
+    "storage_bucket": "tubesppbm.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977052530411:android:4d860db11148d111a130ae",
+        "android_client_info": {
+          "package_name": "com.ppbm.tubeskei"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4mdmjFmMHs7308Egb_ZxMvCT3BpBtTM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977052530411:android:18357588d88b182ea130ae",
+        "android_client_info": {
+          "package_name": "com.tubeskei.ass3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4mdmjFmMHs7308Egb_ZxMvCT3BpBtTM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
